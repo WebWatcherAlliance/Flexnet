@@ -1,4 +1,4 @@
-- jp version readme [README_JP.md](README.JP.md)
+- jp version readme [README_JP.md](./README_JP.md)
 
 # GTPS Simple HTTPs
 
