@@ -1,3 +1,5 @@
+- jp version readme [README_JP.md](README.JP.md)
+
 # GTPS Simple HTTPs
 
 This is a simple Express server for a gameserver named GTPS.
