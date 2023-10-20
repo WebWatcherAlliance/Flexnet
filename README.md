@@ -1,5 +1,3 @@
-- jp version readme [README_JP.md](./README_JP.md)
-
 # GTPS Simple HTTPs
 
 This is a simple Express server for a gameserver named GTPS.
@@ -56,6 +54,6 @@ This server is for demonstration purposes and may not be suitable for production
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
 ---
